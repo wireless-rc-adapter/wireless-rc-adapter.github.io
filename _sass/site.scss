@@ -7,8 +7,12 @@
 	font-size: 100%;
 }
 
-.disabled {
-	opacity: .25;
+img.disabled {
+	opacity: .25 !important;
+}
+
+img.disabled:hover {
+	background: #ffffff !important;
 }
 
 html {
