@@ -7,6 +7,9 @@
 	font-size: 100%;
 }
 
+.disabled {
+	opacity: .25;
+}
 
 html {
 	@extend %extend1;
