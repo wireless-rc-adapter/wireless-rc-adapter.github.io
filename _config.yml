@@ -1,12 +1,12 @@
 # Site
 title:              Wireles RC Adapter
-bio:                'Arduino powered 6 channel RC-receiver to USB adapter. Compatible with the following protocols:'
-description:        "There is no need to hook the transmitter with cables to the simulator device anymore. Instead plug your favorite RC receiver in the adapter and play wireless on TV, Desktop or even on Mobile devices. It acts as an USB joystick, dispatching the channel-values read from the RC receiver. Aimed to be fast and responsible, though simple to use."
+bio:                'Arduino USB-Joystick adapter for RC receivers with PWM and PPM modulations up to 8 channels.'
+description:        "A blazing fast adapter for connecting RC receivers to the computer with just an Arduino (or similar), making possible to play wireless as it meant to be. Already supporting PWM and PPM modulations with 16bit resolution, the two most popular protocols which is being used by RC receivers and transmitters. So there is no need to hook the radio transmitter with cables to the simulator anymore. Just plug it in the USB port and play. Also it is compatible with a wide range of devices, like the ones running Windows, Mac, Linux or Android/iOS, so literally almost anything what supports an USB joystick. Aimed to be fast and responsible, though simple to use."
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false
 locale:             en_US
-url:                https://wireless-rc-adapter.github.io
+url:                http://wireless-rc-adapter.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -28,7 +28,7 @@ gems:
  - jekyll-sitemap
 
 #jekyll-mentions:
-#    base_url: https://wireless-rc-adapter.github.io
+#    base_url: http://wireless-rc-adapter.github.io
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
