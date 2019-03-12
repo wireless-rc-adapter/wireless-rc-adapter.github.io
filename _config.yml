@@ -1,7 +1,7 @@
 # Site
 title:              Wireless RC Adapter
 bio:                'Arduino USB-Joystick adapter for RC receivers with PWM and PPM modulations up to 8 channels.'
-description:        "**A blazing fast adapter for connecting RC receivers to the computer with just an Arduino* (or similar), making possible to play wireless as it meant to be. Supporting **16bit resolution* with the most popular protocols. So there is no need to hook the radio transmitter with cables to the simulator anymore. Just plug it in the **USB port and play*. Also it is compatible with a wide range of devices, like the ones running **Windows, Mac, Linux* or **Android/iOS*, so literally almost anything what supports an USB joystick. Aimed to be fast and responsible, though simple to use."
+description:        "**A blazing fast adapter for connecting RC receivers to the computer with just an Arduino* (or similar), making possible to play wireless as it meant to be. Supporting **16bit resolution* with the most popular protocols. There is no need to hook the radio transmitter with cables to the simulator anymore, just plug it in the **USB port and play*. It is compatible with a wide range of devices, like the ones running **Windows, Mac, Linux* or **Android/iOS*, literally almost anything whats have an USB port. Aimed to be fast and simple to use."
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false
