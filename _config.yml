@@ -6,7 +6,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false
 locale:             en_US
-url:                http://wireless-rc-adapter.github.io
+url:                https://wireless-rc-adapter.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -28,7 +28,7 @@ gems:
  - jekyll-sitemap
 
 #jekyll-mentions:
-#    base_url: http://wireless-rc-adapter.github.io
+#    base_url: https://wireless-rc-adapter.github.io
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
