@@ -15,6 +15,10 @@
 .donate-btn {
 	display: inline-block;
 	margin: 0 1em;
+	@media #{$small} {
+		display: inline;
+		margin: 1em 1em;
+	}
 }
 .social-btn {
   margin: 10px;
@@ -163,10 +167,6 @@ figure {
       }
       figcaption {
         clear: left;
-      }
-      .donate-btn {
-      	display: inline;
-      	margin: 1em 1em;
       }
     }
   }
