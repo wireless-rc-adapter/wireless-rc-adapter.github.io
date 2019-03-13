@@ -84,7 +84,7 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	/*background-color: $white;*/
+	background-color: $white;
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
@@ -93,6 +93,7 @@ body {
 	@media #{$small} {
 		width: 100%;
 	    box-shadow: none;
+	    background-color: none !important;
 	}
 	@media #{$medium} {
 		width: 80%;
