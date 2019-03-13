@@ -19,13 +19,13 @@ layout: compress
                     </a>
                     <h3 class="title">
                         <a class="zoombtn" href="{{ site.url }}">
-                        	<p style="font-size:2rem;font-weight:bold;margin:0.5rem;">{{ site.title }}</p>
+                        	<p style="font-size:2rem;font-weight:bold;margin:0.4rem 0 0.2rem 0;">{{ site.title }}</p>
 			            </a>
-                        <p style="font-size:1rem;font-weight:normal;font-style:italic;">{{ site.bio }}</p>
+                        <p style="font-size:1rem;font-weight:normal;font-style:italic;margin-top:0;">{{ site.bio }}</p>
                     </h3>
                     <hr class="hr-line">
                     <h3 class="title">
-                        <p style="font-size:1rem;font-weight:initial">{{ site.description | replace: "**", "<b>" | replace: "*", "</b>" }}</p>
+                        <p style="font-size:1rem;font-weight:initial;margin-bottom:0;">{{ site.description | replace: "**", "<b>" | replace: "*", "</b>" }}</p><p style="font-size:1rem;font-weight:bold;margin-top:0;">Supported protocols:</p>
                     </h3>
                     {% include social-links.html %}
                   <hr class="hr-line">

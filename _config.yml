@@ -1,6 +1,6 @@
 # Site
 title:              Wireless RC Adapter
-bio:                'A blazing fast USB adapter for RC receivers up to 8 channels!'
+bio:                'A blazing fast Arduino USB adapter for RC receivers up to 8 channels!'
 description:        "Making possible to play wireless as it meant to be, while supporting **16bit resolution* without any lag. There is no need to hook the radio transmitter with cables to the simulator anymore, just plug it in the **USB port and play*. It is compatible with a wide range of devices, like the ones running **Windows, Mac, Linux* or **Android/iOS*, literally almost anything whats have an USB port. Aimed to be fast and simple to use."
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
