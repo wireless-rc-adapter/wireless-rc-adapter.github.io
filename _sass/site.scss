@@ -29,7 +29,7 @@ body {
 	@media #{$small} {
 	    /*background-image: none !important;*/
 		background: $white;
-		background-size: 100vw;
+		background-size: 100vw !important;
 		margin-top:45vw;
 	}
 }
